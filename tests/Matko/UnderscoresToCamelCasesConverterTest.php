@@ -2,8 +2,6 @@
 
 namespace Tests\Matko;
 
-use Tests\Matko;
-
 class UnderscoresToCamelCasesConverterTest extends \PHPUnit_Framework_TestCase
 {
     /**
